@@ -13,6 +13,8 @@ Markdownなどに貼り付けて使います。(こんな感じ)
 ![Custom badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fisso-719%2Flit_badge%2Fmain%2Fjson%2Fweb_design.json)
 ![Custom badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fisso-719%2Flit_badge%2Fmain%2Fjson%2Fweb_service.json)
 
+Images are made with [badges / shields](https://github.com/badges/shields.git) and [shields.io](https://shields.io/) .
+
 ## バッジ一覧とコピペMarkdown
 
 ### Member
