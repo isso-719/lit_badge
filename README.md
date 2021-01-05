@@ -73,3 +73,11 @@ Images are made with [badges / shields](https://github.com/badges/shields.git) a
 ~~~
 ![Custom badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fisso-719%2Flit_badge%2Fmain%2Fjson%2Fweb_service.json)
 ~~~
+
+### Pien 🥺
+
+![Custom badge](https://img.shields.io/badge/🥺-pien-green?style=social&link=%20https://unicode.org/emoji/charts-12.0/full-emoji-list.html#1f97a)
+
+~~~
+![Custom badge](https://img.shields.io/badge/🥺-pien-green?style=social&link=%20https://unicode.org/emoji/charts-12.0/full-emoji-list.html#1f97a)
+~~~
