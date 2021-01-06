@@ -85,7 +85,7 @@ Images are made with [badges / shields](https://github.com/badges/shields.git) a
 ## 小ワザ集
 
 ### バッジの色変え
-'?color=%23<ffffff>'(<>内は16進カラーコード)で色を変えられます。
+'?color=%23<ffffff>' (<>内は16進カラーコード)で色を変えられます。
 
 ![lit_badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fisso-719%2Flit_badge%2Fmain%2Fjson%2Fmember.json&link=%20https://github.com/isso-719/lit_badge&color=%230000ff)
 
